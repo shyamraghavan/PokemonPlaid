@@ -9,22 +9,22 @@ def factorial(num):
     return ret
 
 big_num = factorial(15151)
-sum = 0
+total = 0
 x = 2
 
 while True:
-    sum = sum + (big_num / (factorial(x) * factorial(15151-x)))
+    total = total + (big_num / (factorial(x) * factorial(15151-x)))
     x += 2
-    print sum
+    print total
     print x
     if x == 15150:
         break
 
 final = ''
 
-print len(str(sum))
+str(total)
 
-for a in xrange(0,len(str(sum))/500):
-    final += str(sum)(a*500)
+for a in xrange(0,len(str(total))/500):
+    final += str(total(a*500))
 
 print final
