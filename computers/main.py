@@ -21,8 +21,12 @@ while True:
 final = ''
 
 str(total)
+a = 0
 
-for a in xrange(0,len(str(total))/500):
-    final += str(total(a*500))
+while True:
+    final = final + total[a]
+    a += 500
+    if a == len(str(total)) / 500 * 500:
+        break
 
 print final
