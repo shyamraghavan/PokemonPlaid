@@ -15,8 +15,6 @@ x = 2
 while True:
     total = total + (big_num / (factorial(x) * factorial(15151-x)))
     x += 2
-    print total
-    print x
     if x == 15150:
         break
 

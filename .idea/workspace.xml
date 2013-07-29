@@ -7,7 +7,7 @@
     </list>
     <ignored path="PokemonPlaid.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="9a8c6697-5007-41f8-8b81-52e2e3eb2a15" time="1375116194588" ignored="false" />
+    <file path="/Dummy.txt" changelist="9a8c6697-5007-41f8-8b81-52e2e3eb2a15" time="1375117573685" ignored="false" />
     <file path="/main.py" changelist="9a8c6697-5007-41f8-8b81-52e2e3eb2a15" time="1375117546230" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +31,7 @@
       <file leaf-file-name="main.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/computers/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="11" selection-start="435" selection-end="435" vertical-scroll-proportion="0.82227486">
+            <state line="16" column="10" selection-start="265" selection-end="265" vertical-scroll-proportion="0.3957346">
               <folding />
             </state>
           </provider>
@@ -251,7 +251,11 @@
       <created>1375116206074</created>
       <updated>1375116206074</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="changed sum to total, computers problem">
+      <created>1375117575599</created>
+      <updated>1375117575600</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -320,7 +324,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit, computers problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed sum to total, computers problem" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -335,6 +339,7 @@
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="initial commit, computers problem" />
+    <MESSAGE value="changed sum to total, computers problem" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -349,7 +354,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/computers/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="11" selection-start="435" selection-end="435" vertical-scroll-proportion="0.82227486">
+        <state line="16" column="10" selection-start="265" selection-end="265" vertical-scroll-proportion="0.3957346">
           <folding />
         </state>
       </provider>
