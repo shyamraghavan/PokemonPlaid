@@ -7,7 +7,7 @@
     </list>
     <ignored path="PokemonPlaid.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="9a8c6697-5007-41f8-8b81-52e2e3eb2a15" time="1375117716747" ignored="false" />
+    <file path="/Dummy.txt" changelist="9a8c6697-5007-41f8-8b81-52e2e3eb2a15" time="1375118651999" ignored="false" />
     <file path="/main.py" changelist="9a8c6697-5007-41f8-8b81-52e2e3eb2a15" time="1375118599097" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +31,7 @@
       <file leaf-file-name="main.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/computers/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="13" selection-start="438" selection-end="438" vertical-scroll-proportion="0.78519857">
+            <state line="18" column="13" selection-start="291" selection-end="291" vertical-scroll-proportion="0.48736462">
               <folding />
             </state>
           </provider>
@@ -258,7 +258,11 @@
       <created>1375117719436</created>
       <updated>1375117719436</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fixed character scraping, computers problem">
+      <created>1375118654073</created>
+      <updated>1375118654073</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -274,7 +278,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27431422" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27431422" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27431422" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32985073" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -327,7 +331,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="removed debugging, computers problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed character scraping, computers problem" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -344,6 +348,7 @@
     <MESSAGE value="initial commit, computers problem" />
     <MESSAGE value="changed sum to total, computers problem" />
     <MESSAGE value="removed debugging, computers problem" />
+    <MESSAGE value="fixed character scraping, computers problem" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -358,7 +363,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/computers/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="13" selection-start="438" selection-end="438" vertical-scroll-proportion="0.78519857">
+        <state line="18" column="13" selection-start="291" selection-end="291" vertical-scroll-proportion="0.48736462">
           <folding />
         </state>
       </provider>

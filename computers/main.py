@@ -13,7 +13,7 @@ total = 0
 x = 2
 
 while True:
-    total = total + (big_num / (factorial(x) * factorial(15151-x)))
+    total += big_num / (factorial(x) * factorial(15151 - x))
     x += 2
     if x == 15150:
         break
