@@ -19,14 +19,13 @@ while True:
         break
 
 final = ''
-
-str(total)
+totalstr = str(total)
 a = 0
 
 while True:
-    final = final + total[a]
+    final += totalstr[a]
     a += 500
-    if a == len(str(total)) / 500 * 500:
+    if a >= len(totalstr):
         break
 
 print final
